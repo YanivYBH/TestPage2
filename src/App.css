@@ -1,0 +1,22 @@
+.buttonConnect{
+  cursor: pointer;
+  border: 18px solid rgb(255, 255, 255);
+  background: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  padding: auto;
+  font-size: 16px;
+  margin: 1px;
+  font-weight: bold;
+  border-radius: 8px;
+  margin-top:30px;
+}
+.buttonConnectConfirmed{
+  margin-top:100px;cursor: pointer;border: 8px solid #4caf50;background: #4caf50;color: #fff;padding: auto;font-size: 20px;margin: 1px;border-radius: 8px;margin-top:30px;
+}
+.buttonConnectUnconfirmed{
+  margin-top:100px; cursor: pointer;border: 8px solid #b61b1b;background: #b61b1b;color: #fff;padding: auto;font-size: 20px;margin: 1px;border-radius: 8px;margin-top:30px;
+}
+
+.walletCard{
+  text-align: -webkit-center;
+}
